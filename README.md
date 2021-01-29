@@ -1,2 +1,2 @@
 # Artificial-Neural-Network-from-scratch
-To get back in touch with the fundamentals of AI, I built an artificial neural network using nothing but python. No libraries, just math. Not even numpy.
+<i>Nowadays, creating a deep learning algorithm is incredibly easy. Using a few libraries will allow any model to be created with only a few lines of code.<br>But I realized that this made me incredibly disconnected with the underlying principles of neural networks. The math: the calculas, linear algebra that is the backbone of neural networks. So to get back in touch with the fundamentals, I built an artificial neural network using nothing but python. No libraries, just math.
